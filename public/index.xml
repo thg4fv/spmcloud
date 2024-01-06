@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photo Gallery on SM &amp; BF</title>
+    <link>https://spmcloud.com/</link>
+    <description>Recent content in Photo Gallery on SM &amp; BF</description>
+    
+    <language>en-us</language>
+    <copyright>Scott Morgan</copyright><atom:link href="https://spmcloud.com/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Act 1: Singapore</title>
+      <link>https://spmcloud.com/singapore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spmcloud.com/singapore/</guid><media:content url="https://spmcloud.com/singapore/20231213_210513_hubb85477e055d9ef8d7126bdb1dc93120_2383885_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://spmcloud.com/singapore/20231213_210513_hubb85477e055d9ef8d7126bdb1dc93120_2383885_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;11/12/2023 - 14/12/2023&lt;/p&gt;
+        </description></item><item>
+      <title>Act 2: India</title>
+      <link>https://spmcloud.com/india/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spmcloud.com/india/</guid><media:content url="https://spmcloud.com/india/20231221_145520_hu681e8a8882dc48b5db6d1fdf06a43d4d_12048742_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://spmcloud.com/india/20231221_145520_hu681e8a8882dc48b5db6d1fdf06a43d4d_12048742_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;15/12/2023 - 19/12/2023&lt;/p&gt;
+        </description></item><item>
+      <title>Act 3: Vietnam</title>
+      <link>https://spmcloud.com/vietnam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spmcloud.com/vietnam/</guid><media:content url="https://spmcloud.com/vietnam/20231228_1610481_hu63665ee57a89ef444d11a7ff8266be68_2925398_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://spmcloud.com/vietnam/20231228_1610481_hu63665ee57a89ef444d11a7ff8266be68_2925398_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;26/12/2023 - 04/01/23&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

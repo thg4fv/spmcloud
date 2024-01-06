@@ -1,0 +1,40 @@
+baseURL = 'https://spmcloud.com'
+languageCode = 'en-us'
+title = 'SM & BF'
+copyright = "Scott Morgan"
+disableKinds = ["taxonomy", "term"]
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+theme = "gallery"
+
+[params]
+  title = "My Gallery"
+  description = "Gallery of tavel photos."
+  defaultTheme = "dark"
+
+[author]
+  name = "Scott Morgan"
+
+[outputs]
+  page = ["HTML"]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+
+[imaging]
+  resampleFilter = "CatmullRom"
+  quality = 75
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription"
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.112.0"
+
+[menu]
+[[menu.footer]]
+  name = "GitHub"
+  url = "https://github.com/thg4fv/spmcloud"
+  weight = 3
